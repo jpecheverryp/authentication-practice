@@ -1,4 +1,4 @@
-exports.array = [
+exports.posts = [
   {
     username: 'Juan',
     title: 'Post 1',
